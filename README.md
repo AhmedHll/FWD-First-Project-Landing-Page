@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [FWD-First-Project-Landing-Page](https://ahmedhll.github.io/FWD-First-Project-Landing-Page/)
 
 ## My process
 
