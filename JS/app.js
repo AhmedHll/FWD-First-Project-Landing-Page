@@ -12,7 +12,7 @@
  * JS Standard: ESlint
  * 
 */
-
+console.log("it's work")
 /**
  * Define Global Variables
  * 
