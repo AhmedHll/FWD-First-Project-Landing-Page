@@ -99,7 +99,7 @@ function scrollHandler() {
     }, 5000);
 
     // add top button when the window is not at the top
-    if (document.body.scrollTop >= 0 && document.documentElement.scrollTop > 1500) {
+    if (document.documentElement.scrollTop > 1500) {
         topButton.classList.add('show');
     } else {
         topButton.classList.remove('show');
