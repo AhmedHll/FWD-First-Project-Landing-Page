@@ -5,7 +5,7 @@ This is a solution to the [First-Project task on FWD-UDACITY](https://egfwd.com/
 ## Table of contents
 
 - [Overview](#overview)
-  - [The Task(#the-Task)
+  - [The Task](#the-Task)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
