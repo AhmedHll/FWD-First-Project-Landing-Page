@@ -47,7 +47,7 @@ Users should be able to:
 The landing page presents the first opportunity to fully combine your skills in HTML, CSS, and JavaScript into a large project.
  Aside from solidifying your skills with these three technologies, you’ll discover how best to combine them in a complex application.
 
-The following are just some of the questions that you’ll experience along the way:
+The following are just some of the questions that I will experience along the way:
 
 - What’s the ideal workflow?
 - How many files do I need?
