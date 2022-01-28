@@ -11,7 +11,6 @@ This is a solution to the [First-Project task on FWD-UDACITY](https://egfwd.com/
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
