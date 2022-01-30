@@ -127,7 +127,8 @@ ul {
   position: fixed;
   top: 0;
   width: 100%;
-  z-index: 5;
+  /* make the header z-index: 6; to be up the circle to ignore click on it */
+  z-index: 6;
 }
 /* End Header */
 

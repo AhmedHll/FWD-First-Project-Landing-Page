@@ -21,7 +21,8 @@ const sections = document.querySelectorAll('section');
 const navBarList = document.getElementById("navbar__list");
 const topButton = document.getElementById('goTop');
 // a variable used to disappear the navigation bar after a specified time
-var disappear;
+//change var to let
+let disappear;
 /**
  * End Global Variables
  * Start Helper Functions
@@ -50,7 +51,7 @@ function buildNav(){
     for (let sec of sections) {
         const li = document.createElement('li');
         const anchor = document.createElement('a');
-        anchor.href = '#' + sec.id;
+        //no need for the href attribute.
         anchor.className = "menu__link";
         anchor.setAttribute('data-id', sec.id);
         anchor.textContent = sec.getAttribute('data-nav');
@@ -99,7 +100,7 @@ function scrollHandler() {
     }, 5000);
 
     // add top button when the window is not at the top
-    if (document.body.scrollTop >= 0 && document.documentElement.scrollTop > 1500) {
+    if (document.documentElement.scrollTop > 1500) {
         topButton.classList.add('show');
     } else {
         topButton.classList.remove('show');
