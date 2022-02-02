@@ -25,7 +25,7 @@ Users should be able to:
 - Go back to the top by pressing the up button
 ### Screenshot
 
-![](images/Screenshot.png)
+![](images/screenshot.png)
 
 ### Links
 
